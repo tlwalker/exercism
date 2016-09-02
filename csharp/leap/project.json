@@ -3,7 +3,10 @@
   "buildOptions": {
     "debugType": "portable"
   },
-  "dependencies": {},
+  "dependencies": {
+    "NUnit": "*",
+    "dotnet-test-nunit": "*"
+  },
   "frameworks": {
     "netstandard1.6": {
       "dependencies": {
