@@ -7,6 +7,9 @@
     "NUnit": "*",
     "dotnet-test-nunit": "*"
   },
+  
+  "testrunner": "nunit",
+  
   "frameworks": {
     "netstandard1.6": {
       "dependencies": {
